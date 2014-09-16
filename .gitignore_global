@@ -1,0 +1,11 @@
+*~
+
+# OS X
+.DS_Store
+
+# Files that might appear on external disk
+.Trashes
+
+# Xcode
+*.xcuserdatad
+xcshareddata

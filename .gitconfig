@@ -1,0 +1,30 @@
+[user]
+	name = Aurélien Lemesle
+	email = aurelien@mentallyfriendly.com
+[core]
+        editor = emacs
+        autocrlf = input
+	excludesfile = /Users/Rerel/.gitignore_global
+[color]
+	ui = 1
+        branch = true
+        diff = true
+        interactive = true
+	status = true
+[help]
+	autocorrect = 1
+[alias]
+	ci = commit
+	co = checkout
+	br = branch
+	st = status
+[push]
+	default = current
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[mergetool]
+	keepBackup = true

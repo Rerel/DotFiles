@@ -1,0 +1,494 @@
+((("PaperclipError" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("PaperclipCommandLineError" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Paperclip" .
+   [0 0 0 0 0 1 0 0 0])
+  ("String" .
+   [2 0 0 0 0 0])
+  ("join" .
+   [1 0 0 0])
+  ("pos" .
+   [9 0 0])
+  ("color_choice" .
+   [0 0 0 0 2 3 0 0 0 0 0 0])
+  ("choose_color" .
+   [0 0 0 0 2 0 0 0 0 0 0 0])
+  ("color" .
+   [27 0 1 0 1])
+  ("line_len" .
+   [1 0 1 1 15 0 0 1])
+  ("colors" .
+   [20 0 0 0 2 1])
+  ("zones" .
+   [2 0 0 0 0])
+  ("key" .
+   [1 0 0])
+  ("value" .
+   [1 0 0 0 0])
+  ("count" .
+   [2 0 0 0 0])
+  ("500" .
+   [1 0 0])
+  ("MapColoring" .
+   [0 0 0 2 0 0 0 0 0 0 0])
+  ("unless" .
+   [1 0 0 0 0 2])
+  ("to_find" .
+   [4 0 4 0 0 0 0])
+  ("each" .
+   [1 0 0 0])
+  ("ARGV" .
+   [1 0 8 0])
+  ("_game" .
+   [1 0 0 0 0])
+  ("Missile" .
+   [0 0 0 0 0 1 0])
+  ("idShooter" .
+   [0 0 0 1 0 0 0 0 0])
+  ("state" .
+   [1 0 0 0 0])
+  ("struct" .
+   [1 0 0 0 0 0])
+  ("Packet" .
+   [1 0 0 0 1 0])
+  ("checksum" .
+   [1 0 0 0 0 0 0 0])
+  ("createRoom" .
+   [1 0 0 0 1 0 0 0 0 0])
+  ("CreateRoomStruct" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("onefunction" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("template" .
+   [1 0 0 0 0 0 0 0])
+  ("main" .
+   [3 0 0 0])
+  ("sinsize" .
+   [0 0 0 0 0 1 0])
+  ("static" .
+   [0 0 1 1 0 0])
+  ("_sin" .
+   [3 0 0 0])
+  ("ssize_t" .
+   [2 0 0 0 0 1 0])
+  ("reinterpret_cast" .
+   [1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("appellant" .
+   [0 0 0 0 0 1 0 0 0])
+  ("endif" .
+   [2 0 0 0 0])
+  ("WIN32" .
+   [0 0 0 1 0])
+  ("ifdef" .
+   [1 0 0 0 0])
+  ("nodeUserManager" .
+   [0 0 1 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("xpath_node" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("createDocument" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("size_t" .
+   [0 0 0 1 0 0])
+  ("addContact" .
+   [0 0 1 0 2 1 0 0 0 0])
+  ("authenticate" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("users" .
+   [13 0 0 0 0])
+  ("new" .
+   [1 0 0])
+  ("ContactList" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("contactsList" .
+   [0 0 0 1 1 2 0 0 0 0 0 0])
+  ("find" .
+   [3 0 0 1])
+  ("else" .
+   [8 0 0 0])
+  ("success" .
+   [1 0 2 2 0 0 1])
+  ("bool" .
+   [3 0 0 0])
+  ("begin" .
+   [7 0 0 0 1])
+  ("setLogin" .
+   [0 0 0 0 1 1 0 0])
+  ("getContactList" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("child_value" .
+   [0 0 0 0 0 1 1 0 0 0 0])
+  ("UserManager" .
+   [1 0 0 0 8 3 1 0 0 0 0])
+  ("if" .
+   [30 0])
+  ("true" .
+   [3 0 0 0])
+  ("false" .
+   [2 0 0 0 1])
+  ("contactList" .
+   [1 0 0 0 1 2 0 0 0 1 0])
+  ("displayContactList" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("sample" .
+   [0 0 0 1 0 0])
+  ("it" .
+   [21 0])
+  ("end" .
+   [12 0 0])
+  ("xml_node_iterator" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("contacts" .
+   [5 0 0 0 1 1 0 0])
+  ("getContactsList" .
+   [0 0 1 1 4 0 0 0 0 0 0 0 0 0 0])
+  ("login" .
+   [5 0 0 1 0])
+  ("this" .
+   [46 0 1 1])
+  ("return" .
+   [15 0 1 0 1 1])
+  ("User" .
+   [27 0 0 0])
+  ("getLogin" .
+   [0 0 0 0 2 1 1 0])
+  ("list" .
+   [19 0 0 0])
+  ("getDocument" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("private" .
+   [4 0 0 0 0 0 0])
+  ("pass" .
+   [14 0 0 0])
+  ("xml_node" .
+   [0 0 0 3 0 0 0 0])
+  ("add_contact" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("add_user" .
+   [0 0 0 1 0 0 0 0])
+  ("pugi" .
+   [8 0 0 0])
+  ("do" .
+   [6 0])
+  ("def" .
+   [10 0 0])
+  ("test" .
+   [4 0 0 0])
+  ("/name" .
+   [1 0 0 0 0])
+  ("name" .
+   [34 0 0 0])
+  ("include" .
+   [14 0 3 5 2 0 1])
+  ("std" .
+   [121 0 0])
+  ("endl" .
+   [21 0 1 1])
+  ("void" .
+   [32 0 0 0])
+  ("load_file" .
+   [1 0 0 0 2 0 0 0 0])
+  ("const" .
+   [46 0 0 0 0])
+  ("char" .
+   [10 0 0 0])
+  ("__XMLMANAGER_HH__" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("XmlManager" .
+   [0 0 11 7 0 0 0 0 0 0])
+  ("header" .
+   [1 0 0 0 0 0])
+  ("/header" .
+   [1 0 0 0 0 0 0])
+  ("/listPlayer" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("date" .
+   [1 0 0 0])
+  ("/date" .
+   [1 0 0 0 0])
+  ("id" .
+   [1 0])
+  ("/id" .
+   [1 0 0])
+  ("/" .
+   [1])
+  ("string" .
+   [28 0 0 2 0 1])
+  ("xml_document" .
+   [0 0 1 2 0 0 0 1 0 0 0 0])
+  ("pugixml" .
+   [1 0 0 0 0 0 0])
+  ("doc" .
+   [13 0 0])
+  ("save_file" .
+   [0 0 1 0 1 0 0 0 0])
+  ("c_str" .
+   [8 0 0 0 0])
+  ("alias" .
+   [6 0 0 0 0])
+  ("contact" .
+   [18 0 1 1 2 6 3])
+  ("set_value" .
+   [0 0 0 2 0 0 0 0 0])
+  ("user" .
+   [32 0 0 0])
+  ("first_child" .
+   [0 0 0 0 0 2 0 0 0 0 0])
+  ("pathUser" .
+   [4 0 0 2 0 0 0 1])
+  ("pathContact" .
+   [2 0 0 2 0 0 1 1 0 0 0])
+  ("xpathNodeUser" .
+   [2 0 0 4 1 0 0 0 0 0 0 0 0])
+  ("xpathNodeContact" .
+   [1 0 0 4 0 1 0 0 0 0 1 0 0 0 0 0])
+  ("node" .
+   [9 0 0 0])
+  ("delete" .
+   [6 0 1 0 2 0])
+  ("delete_contact" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("xpathNodeToRemove" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("xpathRootNode" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("userManager" .
+   [0 0 0 0 0 0 2 0 0 0 0])
+  ("userManagerNode" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 1 0 0])
+  ("select_single_node" .
+   [0 0 1 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cout" .
+   [18 0 0 0])
+  ("manager" .
+   [1 0 2 0 2 0 0])
+  ("loadDocument" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("saveDocument" .
+   [0 0 0 0 1 1 0 0 0 0 0 0])
+  ("_addUser" .
+   [0 0 0 1 0 0 0 0])
+  ("_deleteUser" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("_changeUserPassword" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("_addContact" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("_deleteContact" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("nameNode" .
+   [0 0 0 0 2 0 0 0])
+  ("for" .
+   [10 0 0])
+  ("xpathUser" .
+   [0 0 0 0 1 0 0 0 0])
+  ("nodeUserPath" .
+   [0 0 0 0 1 0 1 0 0 0 0 0])
+  ("child" .
+   [1 0 0 0 0])
+  ("node_pcdata" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("addUser" .
+   [1 0 1 5 0 0 0])
+  ("class" .
+   [5 0 0 0 0])
+  ("public" .
+   [6 0 1 0 0 0])
+  ("virtual" .
+   [4 0 0 2 2 0 0])
+  ("IXmlManager" .
+   [0 0 1 1 0 0 0 0 0 0 0])
+  ("getPasswd" .
+   [0 0 0 0 1 0 0 0 0])
+  ("passwd" .
+   [0 0 0 3 0 0])
+  ("ContactsList" .
+   [0 0 6 4 0 1 1 0 0 0 0 0])
+  ("getContacts" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("xml" .
+   [6 0 0])
+  ("or" .
+   [1 0])
+  ("changeUserPassword" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Singleton" .
+   [0 0 0 0 0 0 2 0 0])
+  ("friend" .
+   [1 0 0 0 0 0])
+  ("disconnect" .
+   [1 0 0 0 1 0 0 0 0 0])
+  ("getUser" .
+   [1 0 0 0 0 0 0])
+  ("findUser" .
+   [0 0 0 0 1 2 0 0])
+  ("break" .
+   [2 0 0 0 0])
+  ("NULL" .
+   [11 0 0 0])
+  ("setPasswd" .
+   [0 0 0 0 1 1 0 0 0])
+  ("newpass" .
+   [0 0 0 0 0 0 1])
+  ("iterator" .
+   [0 0 0 1 0 2 1 0])
+  ("push_back" .
+   [0 0 0 0 2 0 0 0 0])
+  ("addToContactsList" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("getInstance" .
+   [0 0 0 0 7 0 0 0 0 0 0])
+  ("getUserByLogin" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("usersList" .
+   [0 0 0 0 0 1 3 0 0])
+  ("erase" .
+   [1 0 0 0 0])
+  ("getStatus" .
+   [0 0 0 0 0 1 0 0 0])
+  ("deleteUser" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("status" .
+   [1 0 0 0 0 0])
+  ("xpathNodeUserLogin" .
+   [1 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cerr" .
+   [1 0 0 0])
+  ("Model" .
+   [2 0 0 0 0])
+  ("updateUserStatus" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("map" .
+   [30 0 0])
+  ("first" .
+   [1 0 0 0 0])
+  ("iostream" .
+   [1 0 0 0 0 0 0 0])
+  ("contactLogin" .
+   [1 0 0 0 0 0 0 0 0 0 1 0])
+  ("contactStatus" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("str" .
+   [3 0 0])
+  ("str2" .
+   [1 0 0 0])
+  ("SocketUdp" .
+   [0 0 1 5 0 0 0 0 0])
+  ("writeDatagram" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("readDatagram" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("int" .
+   [11 0 0])
+  ("sock" .
+   [1 0 0 0])
+  ("_socketFd" .
+   [0 0 3 1 1 0 1 0 0])
+  ("ERROR" .
+   [0 0 1 1 0])
+  ("sin" .
+   [3 0 0])
+  ("sizeof" .
+   [3 0 0 0 0 0])
+  ("Error" .
+   [1 0 0 0 0])
+  ("data" .
+   [5 0 0 0])
+  ("size" .
+   [7 0 0 0])
+  ("adress" .
+   [1 0 0 0 1 0])
+  ("port" .
+   [2 0 0 0])
+  ("socket" .
+   [1 0 0 0 0 0])
+  ("typedef" .
+   [1 0 0 0 0 0 0])
+  ("type" .
+   [2 0 0 0])
+  ("FunctionSignature" .
+   [2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("deserialize" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("serializeData" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("JOIN" .
+   [1 0 0 0])
+  ("BinarySerializer" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("_headerSerializer" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("enum" .
+   [1 0 0 0])
+  ("while" .
+   [1 0 0 0 0])
+  ("int32_t" .
+   [2 0 0 0 0 0 0])
+  ("static_cast" .
+   [3 0 0 0 0 0 0 0 0 0 0])
+  ("eventReceived" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("RUBY_VERSION" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("STDIN" .
+   [1 0 0 0 0])
+  ("split" .
+   [3 0 0 0 0])
+  ("puts" .
+   [15 0 0 0])
+  ("readlines" .
+   [1 0 0 0 0 0 0 0 0])
+  ("final" .
+   [0 0 1 0 0])
+  ("nil" .
+   [6 0 0])
+  ("raise" .
+   [3 0 0 0 0])
+  ("self" .
+   [2 0 0 0])
+  ("VERSION" .
+   [0 0 0 0 0 0 1])
+  ("map_size" .
+   [0 0 3 1 0 0 0 0])
+  ("then" .
+   [1 0 0 0])
+  ("file" .
+   [2 0 0 0])
+  ("rescue" .
+   [2 0 0 0 0 0])
+  ("readline" .
+   [0 0 0 0 0 1 0 0])
+  ("line_size" .
+   [1 0 1 0 4 0 0 0 0])
+  ("defined?" .
+   [0 0 0 1 1 0 0 0])
+  ("Array" .
+   [1 0 0 0 1])
+  ("disp_map" .
+   [0 0 0 0 1 0 0 0])
+  ("initials" .
+   [0 0 0 4 2 0 0 0])
+  ("index" .
+   [1 0 0 0 0])
+  ("each_with_index" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("initials_index" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("map_fill_rec" .
+   [0 0 0 3 0 0 0 0 0 0 0 0])
+  ("finals" .
+   [0 0 0 1 0 1])
+  ("initial_count" .
+   [1 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("final_count" .
+   [0 0 0 1 1 0 1 0 0 0 0])
+  ("buffer" .
+   [0 0 0 1 0 0])
+  ("map_coloring" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("square" .
+   [4 0 0 0 3 0])
+  ("letter" .
+   [1 0 0 0 0 0])
+  ("Mongoid" .
+   [0 0 0 1 0 0 0])))
