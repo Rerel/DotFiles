@@ -4,7 +4,7 @@
 [core]
         editor = emacs
         autocrlf = input
-	excludesfile = /Users/Rerel/.gitignore_global
+	excludesfile = /Users/AJ/.gitignore_global
 [color]
 	ui = 1
         branch = true
@@ -13,11 +13,26 @@
 	status = true
 [help]
 	autocorrect = 1
+	browser = google-chrome
 [alias]
 	ci = commit
 	co = checkout
 	br = branch
 	st = status
+	df = diff
+	lg = log -p
+	me = config user.name
+	unstage = reset HEAD
+	undo-commit = reset --soft HEAD^
+
+	# all commits that aren't merges on all branches
+	all = !git log --pretty=oneline --abbrev-commit --all --no-merges
+
+	# all commits today for only me
+	today = !git all --since='12am' --committer=\"`git me`\"
+
+	# files different from master on current branch
+	fdm = !git diff origin/master... --name-status
 [push]
 	default = current
 [difftool "sourcetree"]
@@ -28,3 +43,9 @@
 	trustExitCode = true
 [mergetool]
 	keepBackup = true
+[web]
+	browser = google-chrome
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
